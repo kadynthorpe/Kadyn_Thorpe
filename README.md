@@ -1,6 +1,7 @@
 # Kadyn_Thorpe # 
 
 Current State
+
 Placeholder information has been replaced with meaningful data.
 Successfully connected to a backend Express API and PostgreSQL database.
 Added many stylistic CSS touches all without using any libraries:
@@ -13,6 +14,7 @@ Whenever a change needs to be made to the content of my portfolio, it can be han
 
 
 Todo:
+
 Create a more modern, multi-column design to display portfolio information better for desktop users.
 Improve overall responsiveness.
 Add more of my work to the Backend Database.
